@@ -27,4 +27,4 @@ class Solution:
         return 0
 
 # 采取快慢指针的策略，通过sum与target的比较，决定是前项舍弃还是后项补充。
-# 时间复杂度为O(2n)
+# 时间复杂度为O(n²)
